@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{685A90A6-1350-46FD-B321-71CD1659DB63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{71862A8F-6048-4143-89AE-E75A23789769}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{66C5B366-2FD1-49F1-897F-D419B0813E59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{B6301D77-49A1-48DE-9810-BEF422B67C4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduSpot.Web", "EduSpot.Web\EduSpot.Web.csproj", "{5F5BB9CE-704C-4BDA-8061-C38FECCFBAB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduSpot.Services.UniversityAPI", "EduSpot.Services.UniversityAPI\EduSpot.Services.UniversityAPI.csproj", "{BD9B2A77-D01C-4916-B10F-1287DCB10BED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduSpot.Services.MagorAPI", "EduSpot.Services.MagorAPI\EduSpot.Services.MagorAPI.csproj", "{FD5FD5BD-B5A6-4EE9-82C5-9FB2BE2FEC04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduSpot.Web.Models", "EduSpot.Web.Models\EduSpot.Web.Models.csproj", "{F7C29B18-7EC3-41EE-8E50-E03164411AFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduSpot.Web.Utility", "EduSpot.Web.Utility\EduSpot.Web.Utility.csproj", "{ED4BA13F-010F-415C-820C-FD5ABF23577F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduSpot.Web.DataAccess", "EduSpot.Web.DataAccess\EduSpot.Web.DataAccess.csproj", "{27EE4747-086B-4B11-9831-88F19C3BDD40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduSpot.Services.AuthAPI", "EduSpot.Services.AuthAPI\EduSpot.Services.AuthAPI.csproj", "{5E866F5F-3C61-4D12-8877-A5DFA617A852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduSpot.Services.MaterialAPI", "EduSpot.Services.MaterialAPI\EduSpot.Services.MaterialAPI.csproj", "{A30D68E0-AD4E-4C98-9817-A5201189196A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5BB9CE-704C-4BDA-8061-C38FECCFBAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5BB9CE-704C-4BDA-8061-C38FECCFBAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5BB9CE-704C-4BDA-8061-C38FECCFBAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5BB9CE-704C-4BDA-8061-C38FECCFBAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9B2A77-D01C-4916-B10F-1287DCB10BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9B2A77-D01C-4916-B10F-1287DCB10BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9B2A77-D01C-4916-B10F-1287DCB10BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9B2A77-D01C-4916-B10F-1287DCB10BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5FD5BD-B5A6-4EE9-82C5-9FB2BE2FEC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5FD5BD-B5A6-4EE9-82C5-9FB2BE2FEC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5FD5BD-B5A6-4EE9-82C5-9FB2BE2FEC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5FD5BD-B5A6-4EE9-82C5-9FB2BE2FEC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C29B18-7EC3-41EE-8E50-E03164411AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C29B18-7EC3-41EE-8E50-E03164411AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C29B18-7EC3-41EE-8E50-E03164411AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C29B18-7EC3-41EE-8E50-E03164411AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4BA13F-010F-415C-820C-FD5ABF23577F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4BA13F-010F-415C-820C-FD5ABF23577F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4BA13F-010F-415C-820C-FD5ABF23577F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4BA13F-010F-415C-820C-FD5ABF23577F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27EE4747-086B-4B11-9831-88F19C3BDD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EE4747-086B-4B11-9831-88F19C3BDD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EE4747-086B-4B11-9831-88F19C3BDD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EE4747-086B-4B11-9831-88F19C3BDD40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E866F5F-3C61-4D12-8877-A5DFA617A852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E866F5F-3C61-4D12-8877-A5DFA617A852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E866F5F-3C61-4D12-8877-A5DFA617A852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E866F5F-3C61-4D12-8877-A5DFA617A852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30D68E0-AD4E-4C98-9817-A5201189196A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30D68E0-AD4E-4C98-9817-A5201189196A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30D68E0-AD4E-4C98-9817-A5201189196A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30D68E0-AD4E-4C98-9817-A5201189196A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5F5BB9CE-704C-4BDA-8061-C38FECCFBAB6} = {685A90A6-1350-46FD-B321-71CD1659DB63}
+		{BD9B2A77-D01C-4916-B10F-1287DCB10BED} = {B6301D77-49A1-48DE-9810-BEF422B67C4D}
+		{FD5FD5BD-B5A6-4EE9-82C5-9FB2BE2FEC04} = {B6301D77-49A1-48DE-9810-BEF422B67C4D}
+		{F7C29B18-7EC3-41EE-8E50-E03164411AFE} = {685A90A6-1350-46FD-B321-71CD1659DB63}
+		{ED4BA13F-010F-415C-820C-FD5ABF23577F} = {685A90A6-1350-46FD-B321-71CD1659DB63}
+		{27EE4747-086B-4B11-9831-88F19C3BDD40} = {685A90A6-1350-46FD-B321-71CD1659DB63}
+		{5E866F5F-3C61-4D12-8877-A5DFA617A852} = {B6301D77-49A1-48DE-9810-BEF422B67C4D}
+		{A30D68E0-AD4E-4C98-9817-A5201189196A} = {B6301D77-49A1-48DE-9810-BEF422B67C4D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1DD5561-4E76-4508-90D3-92E49A21E098}
+	EndGlobalSection
+EndGlobal
