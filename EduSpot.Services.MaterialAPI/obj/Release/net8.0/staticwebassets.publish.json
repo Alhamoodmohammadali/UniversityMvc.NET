@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7in5h2z3Wi9JMO3Kj0O8fY14dL5NZn7OTcPLkMm/YFE=",
+  "Source": "EduSpot.Services.MaterialAPI",
+  "BasePath": "_content/EduSpot.Services.MaterialAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EduSpot.Services.MaterialAPI\\wwwroot",
+      "Source": "EduSpot.Services.MaterialAPI",
+      "ContentRoot": "F:\\LiveProjectsme\\EduStop\\EduSpot.Services.MaterialAPI\\wwwroot\\",
+      "BasePath": "_content/EduSpot.Services.MaterialAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

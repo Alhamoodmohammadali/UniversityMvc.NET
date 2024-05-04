@@ -1,0 +1,15 @@
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\bin\Release\net8.0\EduSpot.Web.Models.deps.json
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\bin\Release\net8.0\EduSpot.Web.Models.dll
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\bin\Release\net8.0\EduSpot.Web.Models.pdb
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\bin\Release\net8.0\EduSpot.Web.Utility.dll
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\bin\Release\net8.0\EduSpot.Web.Utility.pdb
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\EduSpot.Web.Models.csproj.AssemblyReference.cache
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\EduSpot.Web.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\EduSpot.Web.Models.AssemblyInfoInputs.cache
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\EduSpot.Web.Models.AssemblyInfo.cs
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\EduSpot.Web.Models.csproj.CoreCompileInputs.cache
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\EduSpot..6C5260B4.Up2Date
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\EduSpot.Web.Models.dll
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\refint\EduSpot.Web.Models.dll
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\EduSpot.Web.Models.pdb
+F:\LiveProjectsme\EduStop\EduSpot.Web.Models\obj\Release\net8.0\ref\EduSpot.Web.Models.dll

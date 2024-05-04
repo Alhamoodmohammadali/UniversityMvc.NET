@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "F+f4dIuA4jHgjqo/sct5Yx9Viu57x+D+yKHOslCSkq8=",
+  "Source": "EduSpot.Services.SummaryAPI",
+  "BasePath": "_content/EduSpot.Services.SummaryAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EduSpot.Services.SummaryAPI\\wwwroot",
+      "Source": "EduSpot.Services.SummaryAPI",
+      "ContentRoot": "F:\\LiveProjectsme\\EduStop\\EduSpot.Services.SummaryAPI\\wwwroot\\",
+      "BasePath": "_content/EduSpot.Services.SummaryAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\LiveProjectsme\\EduStop\\EduSpot.Services.SummaryAPI\\wwwroot\\PdfFile\\1.pdf",
+      "SourceId": "EduSpot.Services.SummaryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\LiveProjectsme\\EduStop\\EduSpot.Services.SummaryAPI\\wwwroot\\",
+      "BasePath": "_content/EduSpot.Services.SummaryAPI",
+      "RelativePath": "PdfFile/1.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PdfFile\\1.pdf"
+    }
+  ]
+}

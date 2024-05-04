@@ -1,0 +1,12 @@
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\bin\Release\net8.0\EduSpot.Web.Utility.deps.json
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\bin\Release\net8.0\EduSpot.Web.Utility.dll
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\bin\Release\net8.0\EduSpot.Web.Utility.pdb
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\obj\Release\net8.0\EduSpot.Web.Utility.csproj.AssemblyReference.cache
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\obj\Release\net8.0\EduSpot.Web.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\obj\Release\net8.0\EduSpot.Web.Utility.AssemblyInfoInputs.cache
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\obj\Release\net8.0\EduSpot.Web.Utility.AssemblyInfo.cs
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\obj\Release\net8.0\EduSpot.Web.Utility.csproj.CoreCompileInputs.cache
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\obj\Release\net8.0\EduSpot.Web.Utility.dll
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\obj\Release\net8.0\refint\EduSpot.Web.Utility.dll
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\obj\Release\net8.0\EduSpot.Web.Utility.pdb
+F:\LiveProjectsme\EduStop\EduSpot.Web.Utility\obj\Release\net8.0\ref\EduSpot.Web.Utility.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8l9pBPw64XimmTZNZ4fa2e61ENmaWmYSgbrCDxHF2p4=",
+  "Source": "EduSpot.Services.AuthAPI",
+  "BasePath": "_content/EduSpot.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
